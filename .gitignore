@@ -1,0 +1,31 @@
+# 编译生成的文件
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE和编辑器的临时文件
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.idea/
+*.swp
+*~
+
+# 临时文件
+temp.txt
+temp/
+tmp/
+
+# 日志文件
+*.log
+
+# 缓存文件
+.cache/ 
